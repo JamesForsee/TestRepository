@@ -1,6 +1,4 @@
 # TestRepository
-
-
 Correction, we need the gerritUrlPlugin
 
     
