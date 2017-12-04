@@ -1,5 +1,2 @@
 # TestRepository
-Correction, we need the gerritUrlPlugin
-
-    
-Adding a Jira ticket Id
+Need to test changelog will show up on the PingBuildCard
